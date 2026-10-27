@@ -1,0 +1,5 @@
+# Valtakozo tuzeles, mivel az elso loves utan a primary kifogy
+GT4500,1,0.0,1,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
