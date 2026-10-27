@@ -1,0 +1,3 @@
+# Az ALL modban lovunk, de az elso ures, csak a secondary lövi ki
+GT4500,0,0.0,1,0.0
+TORPEDO,ALL

@@ -1,0 +1,6 @@
+# Elso kifogy, utoljara a secondary-vel lövünk, de mivel az első üres, ezért megint secondary kell
+GT4500,1,0.0,2,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
