@@ -1,0 +1,3 @@
+# Elso loves a primary-bol jon. Valamint nincs valtas a hiba miatt
+GT4500,1,1.0,1,0.0
+TORPEDO,SINGLE

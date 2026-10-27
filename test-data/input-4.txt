@@ -1,0 +1,4 @@
+# A masodik lovesnel a secondary jonne, de ott hiba tortenik, es helyesen nem valt vissza
+GT4500,2,0.0,1,1.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
